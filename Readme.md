@@ -266,7 +266,7 @@ npm run dev
 
 ## 📈 Roadmap
 
-- [ ] **v2.0**: Multi-model support (Flux) (visit here:- [https://github.com/YatharthSanghavi/fluxgen](Fluxgen))
+- [.] **v2.0**: Multi-model support (Flux) visit here:- [https://github.com/YatharthSanghavi/fluxgen](Fluxgen)
 - [ ] **v2.1**: Batch processing capabilities
 - [ ] **v2.2**: Advanced content filtering with AI
 - [ ] **v2.3**: User authentication and quotas
