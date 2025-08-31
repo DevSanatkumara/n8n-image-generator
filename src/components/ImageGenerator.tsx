@@ -18,7 +18,7 @@ const ImageGenerator = () => {
 
     try {
       // In a real implementation, replace this URL with your n8n workflow webhook URL
-      const webhookUrl = 'YOUR N8N WEBHOOK LINK HERE';
+      const webhookUrl = 'https://avatarsswami.app.n8n.cloud/webhook/generate-image';
       
       const queryParams = new URLSearchParams({
         message: params.message,
